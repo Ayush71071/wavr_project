@@ -96,6 +96,6 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    npm start
    ```
 
-The application will launch automatically in your browser at **[http://localhost:3000](http://localhost:3000)**!
+The application will launch automatically in your browser at **[https://wavr-beryl.vercel.app/]**!
 
 ---
