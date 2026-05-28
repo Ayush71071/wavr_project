@@ -1,0 +1,8 @@
+.album-art {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  user-select: none;
+  line-height: 1;
+}
