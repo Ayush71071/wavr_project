@@ -99,18 +99,3 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 The application will launch automatically in your browser at **[http://localhost:3000](http://localhost:3000)**!
 
 ---
-
-## 📦 Deployment & Production Build
-
-### Compile Build Assets
-To generate highly compressed, production-ready static assets that separate CSS, JS, and HTML, run:
-```bash
-npm run build
-```
-This generates a folder named `build/` in the root of the project ready to be served by any static host.
-
-### Deploying to Vercel
-WAVR comes pre-configured with a `vercel.json` file for single-page routing compatibility:
-1. Push your code to a Git repository (GitHub/GitLab/Bitbucket).
-2. Import the project directly into [Vercel](https://vercel.com).
-3. Vercel will automatically run `npm run build` and deploy the web app.
